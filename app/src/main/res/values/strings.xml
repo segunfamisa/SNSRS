@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">SNSRS</string>
     <string name="action_settings">Settings</string>
+
+
+    <!-- prompt for the photo feed list item -->
+    <string name="prompt_photo_feed">Check Photo Feed</string>
+
+    <!-- prompt for light switch -->
+    <string name="prompt_light_switch">Light Switch</string>
 </resources>

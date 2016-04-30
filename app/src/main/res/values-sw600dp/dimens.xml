@@ -4,18 +4,8 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
 
-    <!-- padding -->
-    <dimen name="margin_view">8dp</dimen>
 
     <!-- gutter width -->
-    <dimen name="gutter_width">16dp</dimen>
-
-    <!-- text sizes -->
-    <dimen name="textsize_normal">17sp</dimen>
-
-    <!-- text size small -->
-    <dimen name="textsize_small">14sp</dimen>
-
-    <!-- text size -->
+    <dimen name="gutter_width">24dp</dimen>
 
 </resources>
